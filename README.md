@@ -8,4 +8,4 @@ Elena's scope of work:
 Created the Category and Subcategory DataFrames and created the database and ERD file
 
 Liams's scope of work:
-Created Create the Campaign and Contacts DataFrames
+Created the Campaign and Contacts DataFrames
