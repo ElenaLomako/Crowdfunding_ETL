@@ -8,3 +8,5 @@ Created the Category and Subcategory DataFrames and created the database and ERD
 
 Liams's scope of work:
 Created the Campaign and Contacts DataFrames
+
+
